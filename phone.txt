@@ -1,4 +1,5 @@
 phone
+tab
 
 touchscreen
 scratchless-gorilla glass
